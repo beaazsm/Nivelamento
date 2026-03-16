@@ -1,0 +1,1 @@
+oi meu nome é ana beatriz, sou estudante do coc beraldo e tenho 16 anos. No ano de 2020 eu fiz um curso introdutório para o mundo da tecnologia, aprendendo a "programar" com python, fiz um site e um jogo. E este ano espero relembrar, aprender mais e conseguir "facilitar" a vida estudantil e profissional com a programação e a tecnologia.
