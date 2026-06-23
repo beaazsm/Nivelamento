@@ -1,7 +1,9 @@
 body{ 
 
 background-color: white;
-
+color: darkred;
+margin: 0px;
+margin-bottom: 100px;
 }
 
 header{
@@ -12,5 +14,3 @@ font-size: 32px;
 color: darkred;
 
 }
-
-.
